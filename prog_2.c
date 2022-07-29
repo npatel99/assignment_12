@@ -15,7 +15,7 @@ int main() {
     printf("Enter the nth number: ");
     scanf("%d", &n);
     
-    printf("The N natural numbers are: ");
+    printf("The N natural numbers in reverse order are: ");
     printN(n);
     printf("\n");
 
